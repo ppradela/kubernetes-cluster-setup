@@ -44,7 +44,7 @@ sudo hostnamectl set-hostname k8s-worker-02
 sudo hostnamectl set-hostname k8s-worker-03
 ```
 
-Next, edit `/etc/hosts` on **ALL** nodes to include the IP address and hostname of every node in the cluster. This ensures reliable name resolution.
+(Optional) Next, edit `/etc/hosts` on **ALL** nodes to include the IP address and hostname of every node in the cluster. This ensures reliable name resolution.
 
 ```bash
 # Example /etc/hosts - EDIT WITH YOUR ACTUAL IPs AND HOSTNAMES
