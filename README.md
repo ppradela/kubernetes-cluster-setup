@@ -124,7 +124,7 @@ sudo firewall-cmd --permanent --new-zone=flannel
 # IMPORTANT: Replace 192.168.122.0/24 with YOUR cluster's HOST subnet.
 sudo firewall-cmd --permanent --zone=k8s-cluster --add-source=192.168.122.0/24
 
-# NOTE: 10.244.0.0/16 is the default for Flannel. Verify your cluster's podSubnet if you change it during kubeadm init.
+# NOTE: 10.244.0.0/16 is the default for Flannel.
 sudo firewall-cmd --permanent --zone=flannel --add-source=10.244.0.0/16
 ```
 
