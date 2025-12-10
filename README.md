@@ -225,7 +225,6 @@ curl http://<EXTERNAL-IP>
 
 ## 👤 Author
 **Przemyslaw Pradela**  
-- 💼 GitHub: [@ppradela](https://github.com/ppradela)  
-- ✉️ Email: [przemyslaw.pradela@pradela.ovh](mailto:przemyslaw.pradela@pradela.ovh?subject=Kubernetes%20Cluster%20Bootstrap%20Guide)  
+- 💼 GitHub: [@ppradela](https://github.com/ppradela)
 - 🔗 LinkedIn: [przemyslaw-pradela](https://www.linkedin.com/in/przemyslaw-pradela)
 
